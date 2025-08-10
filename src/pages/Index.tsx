@@ -4,7 +4,7 @@ import Icon from '@/components/ui/icon';
 
 const Index = () => {
   const handleTelegramRedirect = () => {
-    window.open('https://t.me/alcohol_delivery_nsk', '_blank');
+    window.open('https://t.me/givedrink', '_blank');
   };
 
   return (
